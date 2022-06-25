@@ -1,12 +1,12 @@
 $(document).ready(function(){
     $(".Club").submit(function(event){
         const FullnameInput = $("Input#Fullname").val();
-        // const AgeInput  = $("Input#Age").val();
+        const StateInput  = $("Input#State").val();
         const GenderInput = $("Input#Gender").val();
 
 
         $(".Fullname").text(FullnameInput.toUpperCase());
-        // $(".Age").text(AgeInput);
+        $(".State").text(StateInput.toUpperCase());
         $("Gender").text(GenderInput.toUpperCase());
 
 

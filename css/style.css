@@ -1,3 +1,13 @@
 #Story{
     display: none;
 }
+
+span{
+    color: blue;
+    text-decoration: underline;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
