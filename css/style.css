@@ -9,5 +9,22 @@ span{
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
     
+}
+
+body{
+    background-color: indigo;
+}
+label{
+    color: white;
+}
+
+btn{
+    color: white;
+}
+
+p{
+    color: white;
 }
