@@ -6,8 +6,8 @@ $(document).ready(function(){
 
 
         $(".Fullname").text(FullnameInput.toUpperCase());
-        $(".State").text(StateInput.toUpperCase());
-        $("Gender").text(GenderInput.toUpperCase());
+        $(".state").text(StateInput.toUpperCase());
+        $(".Gender").text(GenderInput.toUpperCase());
 
 
               $("#Story").show();
